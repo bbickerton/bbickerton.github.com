@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/bbickerton
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://brianbickerton.com
+  * I am bbickerton (https://keybase.io/bbickerton) on keybase.
+  * I have a public key with fingerprint 1720 B1A1 0DA5 4ECF 0305  660C 4A3D 4B4F 22B0 875A
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "1720b1a10da54ecf0305660c4a3d4b4f22b0875a",
+            "host": "keybase.io",
+            "key_id": "4a3d4b4f22b0875a",
+            "kid": "0101113f693a98c49d07c92a1aca0c30d3f73176c37428463de63e1b3126f02ec62d0a",
+            "uid": "8e8d59dae660307fe1fed7f32207b300",
+            "username": "bbickerton"
+        },
+        "service": {
+            "hostname": "brianbickerton.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1421946078,
+    "expire_in": 157680000,
+    "prev": "295cb7b201cbde3a98cd665a72eee8c6bdedbe60e2b851730f11f40b69bff2ad",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.1
+Comment: https://keybase.io/crypto
+
+yMIgAnicbZJtSBRBGMfPXvEiExGlRIKVIuywmZ292d2LRCLKyooiCyU5dmZndT29
+PfdOU8uCyoLshQKjAnsxLCrQ6kvYG2mBghmZimURCUJaVGhkoGjNSvap+TLM//k/
+v+eFeb5wtssd1Zut3FqzurQpqqMls9S1s8XzYZ9ALL1C8O0TAmz6MsxgPrNDthmM
+CD4ByiIgUINA17wSowZAwIsxoJKGdIlIhigSoMheTfAIBVbYyeAYooVZmmlxjT/8
+ps7V//gD0wEAAYQQGVhFmqpQSdWBTFVRgxrVAEVAR4aMoIwpkiVRkTDSGUYMEgRF
+bACRUSzqwMGVTuMUpuheVdcYbxIB2WDQYLpsIFEEMkEAOMYws4NaMeNuQkwaYHbE
+CgpVHoHrZSZlzhKcWWY8tqkF//nSqFXMGSHbiljUKuLxgkgk5HPSIxUhx7+XEf9f
+kp+YQZ2vkyeUMTts8jI+yJ00YjpoKIlQlTCQFY/AykOmzfym4/DKWAH8OGVYGUeK
+qpcSmYgAUqKz6T3pGHs1WWSMKRRzUScMAyYSxQtlBAwIDQkQrBLDEDVdcGYrCVqC
+D/E2tXyODJv5QS1SajOhqvXpnjmuKLdr3txZzodwuaNjZ75Jxsb5k0vK65Hn05nz
+CTX9bQ2J9TXRux+nbmnq6+hO2n+55arfN5XSE9ufvbht7/3lubSxexQsmypJGK+t
+3DTqK0zLOlQ8kQ6fHY/PLDz/zr095lxeys6bL26nDNz4XhRTffBeVnV73tdTrWvH
+U3fVxXbNS2gcG//1G6/KOdlQsXzw9IrDcRf2V46MNN2Mn2ofq7za9fZ13ED7tUvq
+3ZWVCxLdmzMvCFHr6hKjXT2ewUNLO4e/1B64vCGc0oyTD5y+uKUkOfTgYfvvbUO9
+19VA7pyYwJHhuoxOlzUp/BylR7eCR7E7cnKH3jz5drZhrO9Y2ZWX/uTmio/Z6T8S
+Jl4Vrf98p7cn6cSi0Ps/urIvVQ==
+=j3oP
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bbickerton
+
+==================================================================
